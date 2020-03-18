@@ -32,7 +32,7 @@ The FOSSASIA team is committed to making this as safe as we reasonably can, and 
 - If you start to feel unwell during the conference, please find a quiet corner, phone the PHPC nearest to where you are staying (not the one nearest to the venue), and act on their advice.
 - Wash your hands thoroughly with soap and water a few times a day. (Hopefully you are already doing this before you come to Singapore…)
 - Avoid touching your face! Even with frequent hand-washing, you may still pick up an infected droplet off a surface. If you then touch your eyes, nose, or mouth, you are likely to contract Covid-19.
-- Avoid handshakes or other physical contact with other attendees.
+- Avoid handshakes, exchange of name cards, or other physical contact with other attendees.
     - Bowing, with or without hands pressed together is an obvious option.
     - Trekkies finally have an excuse to use the Vulcan salute 🖖 in public!
     - Use your imagination…
